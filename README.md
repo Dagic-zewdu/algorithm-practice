@@ -1,2 +1,2 @@
-# algorithm-practice
+# Algorithm Practice
 My algorithm practice repo
