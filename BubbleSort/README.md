@@ -1,4 +1,4 @@
-### Bubble Sort
+# Bubble Sort
 
 Bubble sort is a sorting algorithm that compares two adjacent elements and swaps them until they are in the intended order.
 
@@ -16,3 +16,5 @@ Suppose we are trying to sort the elements in ascending order.
 
 4. Swap them if they are not in order.
 The above process goes on until the last element.
+
+
