@@ -21,3 +21,7 @@ Worst Time Complexity: Define the input for which algorithm takes a long time or
   - Following is a quick revision sheet that you may refer to at the last minute
 
 ![sorting-time](timeComplexity.png)
+
+ ------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/Dagic-zewdu/algorithm-practice/issues)._
