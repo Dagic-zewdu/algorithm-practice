@@ -18,3 +18,6 @@ Suppose we are trying to sort the elements in ascending order.
 The above process goes on until the last element.
 
 
+ ------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/Dagic-zewdu/algorithm-practice/issues)._
